@@ -6,7 +6,6 @@
 - 🔭 Atualmente estou terminando o 3º ano do ensino médio, com curso técnico de Ti.
 - 🌱 Atualmente aprimorando JavaScript e Python
 - 💻 Estou procurando estágio na área da tecnologia!
- 
 - 😄 Pronomes: Ele/dele
 - ⚡ Curiosidade: Inglês intermediário.
 - 🎓 Conhecimento sobre : HTML, CSS, JavaScript, Python Git, Github, Word e Excel
