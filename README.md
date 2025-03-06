@@ -3,12 +3,12 @@
 
 
 
-- 🔭 Atualmente estou terminando o 3º ano do ensino médio, com curso técnico de Ti.
-- 🌱 Atualmente aprimorando JavaScript e Python
+- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, 1º semestre
+- 🌱 Focado em Java & Python para Desenvolvimento de Software
 - 💻 Estou procurando estágio na área da tecnologia!
 - 😄 Pronomes: Ele/dele
-- ⚡ Curiosidade: Inglês intermediário.
-- 🎓 Conhecimento sobre : HTML, CSS, JavaScript, Python Git, Github, Word e Excel
+- ⚡ Curiosidade: Inglês intermediário
+- 🎓 Conhecimento sobre : Java, Python, Git, Github, Word e Excel
 
   
 
@@ -24,6 +24,7 @@
 
  - 📱 Como entrar em contato comigo: (11) 95392-9806
    gustavomatachun.domingues@gmail.com
+   https://www.linkedin.com/in/gustavo-matachun-922b29271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BapWB1ZjYSsGMonhef70Ndw%3D%3D
 
     <a href="https://instagram.com/yzgtavo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gustavo-matachun-922b29271" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
