@@ -24,7 +24,7 @@
 
  - 📱 Como entrar em contato comigo: (11) 95392-9806
    gustavomatachun.domingues@gmail.com
-   https://www.linkedin.com/in/gustavo-matachun-922b29271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BapWB1ZjYSsGMonhef70Ndw%3D%3D
+   
 
     <a href="https://instagram.com/yzgtavo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gustavo-matachun-922b29271" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
