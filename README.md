@@ -6,8 +6,7 @@
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, 1º semestre
 - 🌱 Focado em Java & Python para Desenvolvimento de Software
 - 💻 Estou procurando estágio na área da tecnologia!
-- 😄 Pronomes: Ele/dele
-- ⚡ Curiosidade: Inglês intermediário
+- ⚡ Curiosidade: Inglês intermediário (B2)
 - 🎓 Conhecimento sobre : Java, Python, Git, Github, Word e Excel
 
   
