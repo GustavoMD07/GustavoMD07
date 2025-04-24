@@ -20,7 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
            width = "85" height = "85" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-           width = "85" height = "85" />    
+           width = "85" height = "85" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
+           width = "85" height = "85" />   
 
  - 📱 Como entrar em contato comigo: (11) 95392-9806
    gustavomatachun.domingues@gmail.com
