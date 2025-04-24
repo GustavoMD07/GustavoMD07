@@ -7,19 +7,20 @@
 - 🌱 Focado em Java & Python para Desenvolvimento de Software / Data Science
 - 💻 Estou procurando estágio na área da tecnologia!
 - ⚡ Curiosidade: Inglês intermediário (B2)
-- 🎓 Conhecimento sobre : Java | Python | SQL | Git| Github
+- 🎓 Conhecimento sobre : Java | Python | SQL | Git|
 
   
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
-           width = "85" height = "85" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
-           width= "85" height= "85" /> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-           width = "85" height = "85" /> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
            width = "85" height = "85" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = "85" height = "85" /> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width = "85" height = "85" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+           width= "85" height= "85" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+           width = "85" height = "85" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
+           width = "85" height = "85" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+           width = "85" height = "85" />    
 
  - 📱 Como entrar em contato comigo: (11) 95392-9806
    gustavomatachun.domingues@gmail.com
