@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, 1º semestre
 - 🌱 Focado em Java & Python para Desenvolvimento de Software / Data Science
-- 💻 Estou procurando estágio na área da tecnologia!
+- 💻 Estou procurando estágio em desenvolvimento Java!
 - ⚡ Curiosidade: Inglês intermediário (B2)
 - 🎓 Conhecimento sobre : Java | Python | SQL | Git|
 
